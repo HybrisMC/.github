@@ -25,6 +25,6 @@ Stay up-to-date with the latest news and developments:
 
 ## ⚖️ License
 
-Most of Hybris is licensed under the [GNU General Public License v3.0](../LICENSE).
+Most of Hybris is licensed under the [GNU General Public License v3.0](https://github.com/HybrisMC/.github/blob/main/LICENSE).
 
 Thank you for your interest in Hybris, and we can't wait to unveil the client and embark on this adventure with you!
