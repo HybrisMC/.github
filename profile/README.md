@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Hybris Logo" width="200">
+  <img src="../logo.png" alt="Hybris Logo" width="200">
 </div>
 
 # Hybris: Revolutionize Your Minecraft Experience
