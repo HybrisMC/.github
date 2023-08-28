@@ -29,10 +29,9 @@ Are you passionate about Minecraft and eager to contribute? We welcome you to jo
 Stay up-to-date with the latest news and progress:
 
 - Visit our official website: [hybrismc.dev](https://hybrismc.dev)
-- Follow us on Twitter: [@COMING-SOON](https://x.com/)
 
 ## Licensing
 
-Hybris is mostly licensed under the [GNU General Public License v3.0](../LICENSE).
+Most of the projects maintained by Hybris are licensed under the [GNU General Public License v3.0](../LICENSE).
 
 Thank you for your interest in Hybris! Join us in our mission to revolutionize the Minecraft experience for players worldwide. We look forward to sharing this incredible journey with you!
