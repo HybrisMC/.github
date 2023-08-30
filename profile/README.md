@@ -1,30 +1,37 @@
-# Hybris
+<div align="center">
+  <img src="https://github.com/HybrisMC/.github/blob/main/logo.png" alt="Hybris Logo" width="200">
+</div>
+
+# Hybris: Revolutionize Your Minecraft Experience
 
 Welcome to the Hybris GitHub organization! 🚀
 
-## 🤔 About Hybris
+## What is Hybris?
 
-Hybris is an upcoming free and open source Minecraft client that aims to revolutionize your gaming experience. Join us on this exciting journey as we bring innovation and customization to Minecraft enthusiasts worldwide!
+Hybris is more than just a Minecraft client; it's a gateway to an enhanced gaming adventure. Experience Minecraft like never before with a client that's designed for innovation, personalization, and excitement.
 
-## Key Highlights
+## Features at a Glance
 
-- 🌟 **Coming Soon:** Stay tuned for the official release of Hybris, packed with exciting features and enhancements.
-- 🛠️ **Customizable Experience:** Personalize your gameplay with a range of options to suit your style and preferences.
-- 🌐 **Growing Community:** Join our passionate community of Minecraft players and developers.
+- 🌟 **Coming Soon:** Anticipate the official release of Hybris, where you'll discover a world of new possibilities.
+- 🎮 **Gameplay Redefined:** Customize your experience with a plethora of options that align with your gaming style.
+- 🌐 **Thriving Community:** Become a part of our rapidly growing community of avid Minecraft players and developers.
 
-## ⚙️ Getting Involved
+## Get Involved
 
-We're actively working on making Hybris a game-changer, and we welcome contributions from the community. Get involved by following our progress, providing feedback, and participating in discussions.
+Are you passionate about Minecraft and eager to contribute? We welcome you to join us in shaping the future of Hybris:
 
-## 📂 Stay Updated
+- 🛠️ **Contribute:** Dive into our codebase, offer improvements, and collaborate with fellow developers.
+- 🐛 **Report Issues:** Spot a bug or have an idea? Let us know by opening an issue on the repositorys issues section.
+- 🗣️ **Engage:** Join discussions, provide feedback, and share your thoughts on our Discord server: [discord.gg/Hybris](https://discord.gg/Hybris).
 
-Stay up-to-date with the latest news and developments:
+## Stay Informed
 
-- Visit our website: [hybrismc.dev](https://hybrismc.dev)
-- Join our Discord server: [discord.gg/Hybris](https://discord.gg/Hybris) (that's where we stay in touch with the community)
+Stay up-to-date with the latest news and progress:
 
-## ⚖️ License
+- Visit our official website: [hybrismc.dev](https://hybrismc.dev)
 
-Most of Hybris is licensed under the [GNU General Public License v3.0](https://github.com/HybrisMC/.github/blob/main/LICENSE).
+## Licensing
 
-Thank you for your interest in Hybris, and we can't wait to unveil the client and embark on this adventure with you!
+Most of the projects maintained by Hybris are licensed under the [GNU General Public License v3.0](/LICENSE).
+
+Thank you for your interest in Hybris! Join us in our mission to revolutionize the Minecraft experience for players worldwide. We look forward to sharing this incredible journey with you!
